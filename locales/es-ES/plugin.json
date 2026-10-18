@@ -225,7 +225,7 @@
   "builtins.lobe-agent.subAgent.stats.tokens": "{{count}} fichas",
   "builtins.lobe-agent.subAgent.stats.tools": "{{count}} herramientas",
   "builtins.lobe-agent.subAgent.stopped": "Detenido antes de terminar",
-  "builtins.lobe-agent.title": "Agente Lobe",
+  "builtins.lobe-agent.title": "Agente TuT AI",
   "builtins.lobe-agent.todos.allDone": "Todas las tareas completadas",
   "builtins.lobe-agent.todos.completedStep": "Completado",
   "builtins.lobe-agent.todos.currentStep": "Paso actual",

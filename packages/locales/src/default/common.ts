@@ -536,7 +536,7 @@ export default {
   'supportAgent.starter.createAgent': 'How do I create and set up an agent?',
   'supportAgent.starter.feedback': 'I want to report a problem or suggest a feature',
   'supportAgent.starter.modelError': 'A model call failed. How do I troubleshoot it?',
-  'supportAgent.title': 'Lobe Support',
+  'supportAgent.title': 'TuT AI Support',
   'supportAgent.welcome':
     "Hi, I'm the Lobe support assistant. Ask me how something works, tell me what went wrong, or leave feedback for the team. I'm an AI, so double-check anything important.",
   'supportAgent.working': 'Looking into it…',

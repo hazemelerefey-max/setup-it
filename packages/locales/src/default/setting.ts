@@ -160,7 +160,7 @@ export default {
   'artworkStudio.remove': 'Remove',
   'artworkStudio.style.anime': 'Anime',
   'artworkStudio.style.lineArt': 'Hand-drawn Lines',
-  'artworkStudio.style.lobe': 'Lobe Style',
+  'artworkStudio.style.lobe': 'TuT AI Style',
   'artworkStudio.style.painterly': 'Hand-painted',
   'artworkStudio.style.pixel': 'Pixel Art',
   'artworkStudio.style.title': 'Style',
@@ -3802,8 +3802,8 @@ When I am ___, I need ___
   'tools.builtins.lobe-agent-management.description': 'Create, manage, and orchestrate AI agents',
   'tools.builtins.lobe-agent-management.title': 'Agent Management',
   'tools.builtins.lobe-agent.description':
-    'Built-in Lobe Agent capabilities: plan and todo management, sub-agent dispatch, and multimodal media analysis',
-  'tools.builtins.lobe-agent.title': 'Lobe Agent',
+    'Built-in TuT AI Agent capabilities: plan and todo management, sub-agent dispatch, and multimodal media analysis',
+  'tools.builtins.lobe-agent.title': 'TuT AI Agent',
   'tools.builtins.lobe-brief.description':
     'Report progress, deliver results, and request user decisions',
   'tools.builtins.lobe-brief.title': 'Brief Tools',

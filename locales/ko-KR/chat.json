@@ -2459,7 +2459,7 @@
   "taskList.title": "작업",
   "taskList.truncated": "{{total}}개의 작업 중 처음 {{loaded}}개를 표시 중",
   "taskList.unassigned": "미할당",
-  "taskList.unassignedAgentHint": "에이전트가 선택되지 않은 경우 Lobe AI가 이 작업을 실행합니다",
+  "taskList.unassignedAgentHint": "에이전트가 선택되지 않은 경우 TuT AI AI가 이 작업을 실행합니다",
   "taskList.view.board": "보드",
   "taskList.view.list": "목록",
   "taskList.viewAll": "전체 보기",

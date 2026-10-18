@@ -225,7 +225,7 @@
   "builtins.lobe-agent.subAgent.stats.tokens": "{{count}} токенов",
   "builtins.lobe-agent.subAgent.stats.tools": "{{count}} инструментов",
   "builtins.lobe-agent.subAgent.stopped": "Остановлено до завершения",
-  "builtins.lobe-agent.title": "Агент Lobe",
+  "builtins.lobe-agent.title": "Агент TuT AI",
   "builtins.lobe-agent.todos.allDone": "Все задачи выполнены",
   "builtins.lobe-agent.todos.completedStep": "Завершено",
   "builtins.lobe-agent.todos.currentStep": "Текущий шаг",

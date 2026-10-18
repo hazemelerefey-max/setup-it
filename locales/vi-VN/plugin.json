@@ -225,7 +225,7 @@
   "builtins.lobe-agent.subAgent.stats.tokens": "{{count}} token",
   "builtins.lobe-agent.subAgent.stats.tools": "{{count}} công cụ",
   "builtins.lobe-agent.subAgent.stopped": "Dừng trước khi hoàn thành",
-  "builtins.lobe-agent.title": "Tác nhân Lobe",
+  "builtins.lobe-agent.title": "Tác nhân TuT AI",
   "builtins.lobe-agent.todos.allDone": "Tất cả nhiệm vụ đã hoàn thành",
   "builtins.lobe-agent.todos.completedStep": "Đã hoàn thành",
   "builtins.lobe-agent.todos.currentStep": "Bước hiện tại",

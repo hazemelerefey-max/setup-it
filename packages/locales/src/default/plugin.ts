@@ -91,7 +91,7 @@ export default {
   'builtins.lobe-agent.subAgent.stats.tokens': '{{count}} tokens',
   'builtins.lobe-agent.subAgent.stats.tools': '{{count}} tools',
   'builtins.lobe-agent.subAgent.stopped': 'Stopped before finishing',
-  'builtins.lobe-agent.title': 'Lobe Agent',
+  'builtins.lobe-agent.title': 'TuT AI Agent',
   'builtins.lobe-claude-code.agent.instruction': 'Instruction',
   'builtins.lobe-claude-code.agent.result': 'Result',
   'builtins.lobe-claude-code.askUserQuestion.noAnswer':

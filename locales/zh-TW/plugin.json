@@ -225,7 +225,7 @@
   "builtins.lobe-agent.subAgent.stats.tokens": "{{count}} 個標記",
   "builtins.lobe-agent.subAgent.stats.tools": "{{count}} 個工具",
   "builtins.lobe-agent.subAgent.stopped": "在完成之前已停止",
-  "builtins.lobe-agent.title": "Lobe 代理",
+  "builtins.lobe-agent.title": "TuT AI 代理",
   "builtins.lobe-agent.todos.allDone": "所有任務已完成",
   "builtins.lobe-agent.todos.completedStep": "已完成",
   "builtins.lobe-agent.todos.currentStep": "當前步驟",

@@ -225,7 +225,7 @@
   "builtins.lobe-agent.subAgent.stats.tokens": "{{count}} jeton",
   "builtins.lobe-agent.subAgent.stats.tools": "{{count}} araç",
   "builtins.lobe-agent.subAgent.stopped": "Bitirmeden durduruldu",
-  "builtins.lobe-agent.title": "Lobe Ajanı",
+  "builtins.lobe-agent.title": "TuT AI Ajanı",
   "builtins.lobe-agent.todos.allDone": "Tüm görevler tamamlandı",
   "builtins.lobe-agent.todos.completedStep": "Tamamlandı",
   "builtins.lobe-agent.todos.currentStep": "Mevcut adım",
